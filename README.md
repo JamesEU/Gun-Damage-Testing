@@ -1,7 +1,7 @@
 # Gun-Damage-Testing
 
-This is a resource for testing your guns weapon damage to peds. 
-
+This is a resource for testing your guns weapon damage to peds.\
+Just a quick resource made to benefit people aka Weapon Developer's. 
 
 ## Commands
 
